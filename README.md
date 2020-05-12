@@ -1,2 +1,2 @@
-# our-first-code-fank
-this is our first code fank
+# our-first-code-bankb
+this is our first code bank
